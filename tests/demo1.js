@@ -1,0 +1,12 @@
+var message1 = "hello";
+message1 = "bye";
+console.log(message1);
+var age = 20;
+console.log(age);
+var isActive = false;
+console.log(isActive);
+var numbers1 = [1, 2, 4];
+console.log(numbers1);
+var data = "this is data";
+data = 2;
+console.log(data);
